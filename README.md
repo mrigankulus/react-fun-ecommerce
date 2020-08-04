@@ -5,11 +5,6 @@ Simple React e commerce app
 
 ### 1. Clone repo
 
-```
-$ git clone git@github.com:basir/node-react-ecommerce.git
-$ cd node-react-ecommerce
-```
-
 ### 2. Install MongoDB
 
 Download it from here: https://docs.mongodb.com/manual/administration/install-community/
